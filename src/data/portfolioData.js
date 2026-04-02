@@ -44,28 +44,22 @@ export const projectList = [
     repo: 'https://github.com/8171-manishsingh/Node-js/tree/master/movie-management-system',
     live: '#',
   },
+
+  
   {
-    name: 'Portfolio and Admin Dashboard',
+    name: 'COVID-19 All State Data Day-9',
     description:
-      'A responsive MERN portfolio system with reusable UI components and admin-ready architecture for future content control.',
-    stack: ['React', 'Tailwind CSS', 'Express.js', 'MongoDB'],
-    repo: 'https://github.com/8171-manishsingh',
+      'A JavaScript project that displays COVID-19 all-state data in a clear and structured format for easy tracking and viewing.',
+    stack: ['HTML', 'CSS', 'JavaScript', 'API'],
+    repo: 'https://github.com/8171-manishsingh/javascript-project/tree/main/covid-19%20all%20state%20data%20Day-9',
     live: '#',
   },
   {
-    name: 'Realtime Chat Module',
+    name: 'Quiz App',
     description:
-      'A chat feature using Socket.IO with room-based messaging, seen status, and backend event handling.',
-    stack: ['React', 'Node.js', 'Express.js', 'Socket.IO'],
-    repo: 'https://github.com/8171-manishsingh',
-    live: '#',
-  },
-  {
-    name: 'Job Portal Backend',
-    description:
-      'A robust API for job posting, applicant tracking, and recruiter workflow automation with secure auth.',
-    stack: ['Express.js', 'MongoDB', 'Node.js', 'JWT'],
-    repo: 'https://github.com/8171-manishsingh',
+      'A JavaScript quiz app with interactive questions, answer selection, and score tracking for an engaging user experience.',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    repo: 'https://github.com/8171-manishsingh/javascript-project/tree/main/Day-1%20Make%20Quiz',
     live: '#',
   },
 ];
